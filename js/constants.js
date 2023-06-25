@@ -1,5 +1,4 @@
-import { YT_API_KEY } from "./config.js";
-const API_KEY = YT_API_KEY;
+const API_KEY = config.YT_API_KEY;
 
 const NOT_FOUND_SONG = "The song is not found";
 
